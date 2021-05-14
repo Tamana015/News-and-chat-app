@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410501820454",
+    "project_id": "chaaya-7a367",
+    "storage_bucket": "chaaya-7a367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410501820454:android:cd69858b961c0a2ab6b6e7",
+        "android_client_info": {
+          "package_name": "com.example.chaayas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410501820454-ndq5f3n4jn9b997qvsuridhg1g7grdkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaayas",
+            "certificate_hash": "7ade011142d5384bd0e6dd1ba7154361ff2dfcc4"
+          }
+        },
+        {
+          "client_id": "410501820454-b7kgkiqh8dos1bhqu9oaiih82qr9uc8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqUE4U9KXM3GqtCHsyiPCQ0km8wGlHlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410501820454-b7kgkiqh8dos1bhqu9oaiih82qr9uc8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

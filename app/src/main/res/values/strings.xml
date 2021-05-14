@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Chaaya</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new">Click here for register</string>
+    <string name="not_register">Not Register?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Thank you for Registeration</string>
+    <string name="Image1news">Chandigarh University Placement
+                              2020-2021:Report,Highlights,Statistics
+Amazon Berlin offered the highest package in the MBA campus placements 2020 of CU, Also, 50 MNCs .....
+    </string>
+    <string name="Image2news">Crisis looms as hospitals near the breaking point
+        Dayalan said, “All Covid beds in private hospitals are occupied and
+        we are left with some 15% empty beds at government.We already have Chandigarh University with 200-bed capacity, ..
+</string>
+    <string name="Image3news">5,000 job offers for university students
+    Chandigarh University topped in campus placements in the zone by clocking more than 5,000 job offers for the 2020-21 batch.
+        More than 500 multinational companies conducted virtual campus placement drives for engineering...</string>
+    <string name="Image4news">Artificial Intelligence with Chandigarh University - Complete career guide in 2021
+    What strikes you when you hear the word “ Artificial Intelligence?” Artificial Robots, AI-based Application Tracking System,
+        or maybe the superhero movie “Avengers: Age of Ultron”? These are some practical examples of .......</string>
+    <string name="Image5news">Chandigarh University to Organise a Virtual Joint Placement Drive;
+        Invites Registration Before April 9. Chandigarh University, which has been named the ‘University with the Best Placements
+        by WCRC and holds the Limca Book Record for getting the greatest number of companies to campus for placements...... </string>
+    <string name="Image6news">Chandigarh University students bucks the fear of pandemic;
+        Bags record number of 5000+ placement offers for 2021 batch
+With more than 500 multinational companies conducting virtual Campus placements;
+        Chandigarh university registers highest number of placement offers in North India</string>
+    <string name="Image7news">Chandigarh University fast bowler Vaibhav Arora picked-up by Kolkata Knight Riders for IPL 2021
+
+</string>
+    <string name="Image8news">Chandigarh University organizes National Youth Summit EVOKE-2021 on the occasion of National Youth Day
+</string>
+    <string name="Image9news">Chandigarh University becomes the first Indian University to have signed MoUs with 306 foreign varsities
+</string>
+    <string name="title_activity_side_entry">SideEntry</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="open">Open</string>
+    <string name="type_your_message_here">Type your Reviews here....</string>
+    <string name="send"></string>
+    <string name="close">Close</string>
+</resources>
